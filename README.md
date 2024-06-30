@@ -77,7 +77,7 @@ python eval.py --checkpoint PATH_TO_MODEL --save_path results/ --config config/e
 | ICM     | real   | 30.56     | 19.03    | 1.05     | 12     | 0.4      |
 | RVM     | real   | 45.20     | 41.32    | 0.56     | **80** | **0.02** |
 
-如果有遗漏或者不解之处，请随时联系我202115204@hust.edu.cn
+如果有遗漏或者不解之处，请随时联系我 U202115204@hust.edu.cn
 
 
 
