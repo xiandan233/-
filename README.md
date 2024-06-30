@@ -4,7 +4,7 @@
 
 该仓库为hust.aia视觉认知工程课设题目三的一个实现。该题目需要截取视频片段标注蒙版数据，并使用ICM与RVM两种预训练的模型预测蒙版，最后计算两种方法所得结果的5项指标并进行对比。关于具体的实验流程，可以参考help.md一文。
 
-该工作在https://github.com/tiny-smart/in-context-matting的基础上进行，但具体实现细节与代码有所区别，具体信息见下文所述。
+该工作在https://github.com/tiny-smart/in-context-matting 的基础上进行，但具体实现细节与代码有所区别，具体信息见下文所述。
 
 ## 环境
 
@@ -12,7 +12,7 @@
 
 - ICM推荐使用cuda=11.7，python=3.10
 
-- 具体的环境安装过程参考https://github.com/tiny-smart/in-context-matting一文。
+- 具体的环境安装过程参考https://github.com/tiny-smart/in-context-matting 一文。
 
 - 在环境的配置过程中可能会遇到一些问题。部分问题的解决方案在help.md中给出。
 
